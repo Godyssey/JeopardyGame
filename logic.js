@@ -160,8 +160,3 @@ function awardPoints(evaluateAnswer, confirmAnswer, possiblePoints) {
         target.innerText = currentScore
     }
 }
-
-// SHOW PERCENTAGE
-function findPercentageScore() {
-    
-}
