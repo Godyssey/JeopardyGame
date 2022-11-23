@@ -2,11 +2,6 @@
 initCatRow()
 initBoard()
 
-function PlayGame() {
-    let area = document.getElementsByClassName('playarea')
-    area[0].style.display = 'block'
-}
-
 document.querySelector('#start-game').addEventListener('click',buildCategories)
 
 //CREATE CATEGORY ROW
