@@ -312,9 +312,6 @@ span {
     font-weight: bold;
     color: var(--accent);
 }
-.playarea {
-    visibility: visible;
-}
 #game-container {
     text-align: center;
     display: flex;
